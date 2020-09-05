@@ -1,8 +1,8 @@
-# <img src="./src/images/antimicroX.png" alt="Icon" width="60"/> AntiMicroX 3.0.1 
+# <img src="./src/images/antimicroX.png" alt="Icon" width="60"/> AntiMicroXS 0.0.1
 
-# The program is abandoned today. More and more responsibilities and opportunities are coming and I don't have time to run this program as much as I should. If you want to develop this program, don't forget to keep the previous developers in the files as it is.
+# The project this is based on has been abandoned by its previous authors. They have, however, contributed greatly to this project and should not be removed from the list of contributing authors if this fork of a fork of a fork is forked. This README is not completely up to date.
 
-## this program is not a part of the official AntiMicro, just like I never was. I cannot help with problems with version 2.23 and below
+## This program is not a part of the official AntiMicro nor AntiMicroX. Issues with those programs are not supported, but feel free to reach out if you'd like. 
 
 
 1. [Description](#description)  
@@ -26,7 +26,7 @@
 
 ## Description
 
-antimicroX is a graphical program used to map keyboard keys and mouse controls
+antimicroXS is a graphical program used to map keyboard keys and mouse controls
 to a gamepad. This program is useful for playing PC games using a gamepad that
 do not have any form of built-in gamepad support. However, you can use this 
 program to control any desktop application with a gamepad; on Linux, this
